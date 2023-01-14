@@ -1,2 +1,1 @@
-#Familiar with git
-Hello
+# Familiar with git
